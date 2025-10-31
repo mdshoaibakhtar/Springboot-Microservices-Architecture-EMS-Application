@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b7e7c95-1ad4-430f-ae20-807a010a5bc7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/auth-service/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/auth-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/auth-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/auth-service/compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/auth-service/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/auth-service/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/auth-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/src/main/java/com/ems/auth_service/AuthServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/auth-service/src/main/java/com/ems/auth_service/AuthServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/src/main/java/com/ems/auth_service/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/auth-service/src/main/java/com/ems/auth_service/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/auth-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth-service/src/test/java/com/ems/auth_service/AuthServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/auth-service/src/test/java/com/ems/auth_service/AuthServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../department-service/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/department-service/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../department-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/department-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../department-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/department-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../department-service/compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/department-service/compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../department-service/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/department-service/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../department-service/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/department-service/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../department-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/department-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../department-service/src/main/java/com/ems/department_service/DepartmentServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/department-service/src/main/java/com/ems/department_service/DepartmentServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../department-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/department-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../department-service/src/test/java/com/ems/department_service/DepartmentServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/department-service/src/test/java/com/ems/department_service/DepartmentServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/employee-service/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/employee-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/employee-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/employee-service/compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/employee-service/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/employee-service/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/employee-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ems/employee_service/EmployeeServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/employee-service/src/main/java/com/ems/employee_service/EmployeeServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/employee-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ems/employee_service/EmployeeServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../microservices/employee-service/src/test/java/com/ems/employee_service/EmployeeServiceApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mdshoaibakhtarck"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mdshoaibakhtar/Springboot-Microservices-Architecture-EMS-Application.git",
+    "accountId": "bc7e9d6d-7802-493f-b08e-3ba990b5b4ab"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="34pKXFOd65dVWDpaOxOQKheWJRA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EmployeeServiceApplication.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mdshoaibakhtar/Documents/Springboot-Microservices-Architecture-EMS-Application/docker-compose/employee-service"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b7e7c95-1ad4-430f-ae20-807a010a5bc7" name="Changes" comment="" />
+      <created>1761905111054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761905111054</updated>
+    </task>
+    <servers />
+  </component>
+</project>
